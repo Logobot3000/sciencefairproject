@@ -1,6 +1,6 @@
 .hero-img {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("rusty-3397227__480.jpg");
-    height: 700px;
+    height: 50%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +20,6 @@
     -webkit-background-clip: text;
         background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 200px;
 }
 .seperator {
     background-color:black;
