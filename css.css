@@ -50,3 +50,11 @@ article {
     font-size: large;
     color:black;
 }
+.col-border {
+    border-left:4px solid black;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
