@@ -1,4 +1,3 @@
-
 window.onscroll = function() {stick()};
 var navbar = document.getElementById("navthing");
 var sticky = navbar.offsetTop;
