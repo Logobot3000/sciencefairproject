@@ -54,7 +54,7 @@ article {
     border-left:4px solid black;
 }
 .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
+    position:fixed;
+    margin-left:82.3%;
+    top:0;
   }
